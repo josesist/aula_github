@@ -11,19 +11,7 @@ public class Program{
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
 		
-		Product product = new Product();
-		System.out.println("Digite os dados do Produto:");
-		System.out.print("name:");
-		product.name = sc.nextLine();
-		
-		System.out.print("Price:");
-		product.price = sc.nextDouble();
-		
-		System.out.print("Quantity:");
-		product.quantity = sc.nextInt();
-		
-		System.out.println("name:" + product.name + "," + "price:" + product.price + "," + "Quantity:" + product.quantity);
-		
+		System.out.println("BOm DIA");
 		
 		
 		
