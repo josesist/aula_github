@@ -16,7 +16,7 @@ public class Program{
 		System.out.println("BOm DIA");
 		System.out.println("boa tarde");
 		
-		
+		System.out.println("boa noite");
 		
 		sc.close();
 		
